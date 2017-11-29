@@ -29,6 +29,9 @@
 (setq company-idle-delay 0); 菜单延迟
 (setq company-minimum-prefix-length 1); 开始补全字数
 
+;;-------------------------------------------------------------------------------------treemacs
+(setq treemacs-width 25)
+
 ;;-------------------------------------------------------------------------------------popwin
 (setq-default popup-window-position 'right)
 
